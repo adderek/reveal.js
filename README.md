@@ -1,3 +1,14 @@
+<p>
+	This fork was created for the following purposes:
+	<ul>
+		<li style="color:red">To create one specific presentation about Java and its memory (along with kubernetes and docker)</li>
+		<li>To add plugins and tools which are compatible together</li>
+		<li>To have a snapshot of a version in which everything is still compatible</li>
+		<li>Possibly to add new changes - if any, those will be listed bellow:<ul>
+			<li>N/A</li>
+		</ul></li>
+	</ul>
+</p>
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
